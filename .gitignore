@@ -40,7 +40,7 @@ vignettes/*.pdf
 .Rproj.user
 
 # DS Store Objects
-*.DS_Store
+.DS_Store
 
 # ipython notebook checkpoints
 *.ipynb_checkpoints/
