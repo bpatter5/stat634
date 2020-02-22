@@ -38,3 +38,9 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 .Rproj.user
+
+# DS Store Objects
+*.DS_Store
+
+# ipython notebook checkpoints
+*.ipynb_checkpoints/
