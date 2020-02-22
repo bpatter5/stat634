@@ -15,7 +15,7 @@ format_inputs <- function() {
 prep_chi_square_tbl <- function() {
   ais_info <- format_inputs()
   
-  return(table(ais_info$State, ais_info$Score))
+  return(table(ais_info$Score, ais_info$State))
 }
 
 chisq_test <- function() {
